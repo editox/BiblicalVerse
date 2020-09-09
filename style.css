@@ -20,7 +20,7 @@ main {
 .main-left {
   outline: 1px solid green;
   width: 100%;
-  min-height: 300px;
+  min-height: 100px;
 }
 .main-setting {
   width:100%;
