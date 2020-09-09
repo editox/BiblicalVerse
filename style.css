@@ -114,7 +114,6 @@ main {
   min-height: 350px;
   border-radius: 20px;
   position: relative;
-  -webkit-transition: 1.5s ease-in-out;
   transition: 1.5s ease-in-out;
   transform-style: preserve-3d;
 }
